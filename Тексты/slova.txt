@@ -1,0 +1,1316 @@
+1. Variable — Переменная
+Пример: "Variables are used to store data in a program."
+Перевод: "Переменные используются для хранения данных в программе."
+
+2. Function — Функция
+Пример: "A function helps to organize code and avoid repetition."
+Перевод: "Функция помогает организовать код и избежать повторений."
+
+3. Loop — Цикл
+Пример: "A loop executes the same block of code multiple times."
+Перевод: "Цикл выполняет один и тот же блок кода несколько раз."
+
+4. Condition — Условие
+Пример: "The if-else condition checks whether a statement is true or false."
+Перевод: "Условие if-else проверяет, является ли выражение истинным или ложным."
+
+5. Array — Массив
+Пример: "An array stores multiple values in a single variable."
+Перевод: "Массив хранит несколько значений в одной переменной."
+
+6. Class — Класс
+Пример: "A class is a blueprint for creating objects."
+Перевод: "Класс — это шаблон для создания объектов."
+
+7. Object — Объект
+Пример: "An object is an instance of a class."
+Перевод: "Объект — это экземпляр класса."
+
+8. Method — Метод
+Пример: "Methods are functions defined inside a class."
+Перевод: "Методы — это функции, определённые внутри класса."
+
+9. Module — Модуль
+Пример: "Modules help to break the program into smaller, manageable parts."
+Перевод: "Модули помогают разбить программу на более мелкие и управляемые части."
+
+10. Library — Библиотека
+Пример: "Libraries provide reusable functions to simplify programming tasks."
+Перевод: "Библиотеки предоставляют функции, которые можно повторно использовать для упрощения задач программирования."
+
+11. Compiler — Компилятор
+Пример: "The compiler translates code from a high-level language to machine code."
+Перевод: "Компилятор переводит код с языка высокого уровня в машинный код."
+
+12. Debugging — Отладка
+Пример: "Debugging is the process of finding and fixing errors in the code."
+Перевод: "Отладка — это процесс поиска и исправления ошибок в коде."
+
+13. Syntax — Синтаксис
+Пример: "The syntax defines the rules for writing code in a programming language."
+Перевод: "Синтаксис определяет правила написания кода на языке программирования."
+
+14. Exception — Исключение
+Пример: "An exception is raised when the program encounters an error during execution."
+Перевод: "Исключение возникает, когда программа сталкивается с ошибкой во время выполнения."
+
+15. Data Structure — Структура данных
+Пример: "A data structure organizes and stores data efficiently."
+Перевод: "Структура данных организует и хранит данные эффективно."
+
+16. String — Строка
+Пример: "A string is a sequence of characters used to represent text."
+Перевод: "Строка — это последовательность символов, используемая для представления текста."
+
+17. Boolean — Булевый тип
+Пример: "A boolean can have only two values: true or false."
+Перевод: "Булевый тип может иметь только два значения: true или false."
+
+18. Parameter — Параметр
+Пример: "Parameters allow functions to accept input values."
+Перевод: "Параметры позволяют функциям принимать входные значения."
+
+19. Return Value — Возвращаемое значение
+Пример: "A function can return a value to the code that called it."
+Перевод: "Функция может возвращать значение в код, который её вызвал."
+
+20. File Handling — Работа с файлами
+Пример: "File handling allows a program to read from or write to files."
+Перевод: "Работа с файлами позволяет программе читать из файлов или записывать в них."
+
+21. Initialization — Инициализация
+Пример: "Variable initialization assigns an initial value to a variable."
+Перевод: "Инициализация переменной присваивает ей начальное значение."
+
+22. Loop Counter — Счётчик цикла
+Пример: "The loop counter increases with each iteration of the loop."
+Перевод: "Счётчик цикла увеличивается с каждой итерацией цикла."
+
+23. Increment — Увеличение
+Пример: "You can increment a variable using the ++ operator."
+Перевод: "Вы можете увеличить значение переменной, используя оператор ++."
+
+24. Decrement — Уменьшение
+Пример: "The decrement operator reduces the value of a variable by one."
+Перевод: "Оператор уменьшения уменьшает значение переменной на единицу."
+
+25. Conditional Statement — Условный оператор
+Пример: "An if-else statement executes code based on a condition."
+Перевод: "Оператор if-else выполняет код на основе условия."
+
+26. Logical Operator — Логический оператор
+Пример: "Logical operators like AND and OR are used in conditions."
+Перевод: "Логические операторы, такие как AND и OR, используются в условиях."
+
+27. Break Statement — Оператор прерывания
+Пример: "The break statement exits a loop prematurely."
+Перевод: "Оператор break досрочно завершает выполнение цикла."
+
+28. Continue Statement — Оператор продолжения
+Пример: "The continue statement skips the rest of the code in the loop and starts the next iteration."
+Перевод: "Оператор continue пропускает оставшийся код в цикле и начинает следующую итерацию."
+
+29. Nested Loop — Вложенный цикл
+Пример: "A nested loop is a loop inside another loop."
+Перевод: "Вложенный цикл — это цикл внутри другого цикла."
+
+30. Array Index — Индекс массива
+Пример: "The array index specifies the position of an element in the array."
+Перевод: "Индекс массива указывает позицию элемента в массиве."
+
+31. Multidimensional Array — Многомерный массив
+Пример: "A multidimensional array stores data in a matrix-like structure."
+Перевод: "Многомерный массив хранит данные в матричной структуре."
+
+32. Function Argument — Аргумент функции
+Пример: "Arguments provide input data for a function to process."
+Перевод: "Аргументы предоставляют входные данные для обработки функцией."
+
+33. Scope — Область видимости
+Пример: "A variable's scope determines where it can be accessed in the code."
+Перевод: "Область видимости переменной определяет, где её можно использовать в коде."
+
+34. Global Variable — Глобальная переменная
+Пример: "A global variable can be accessed from any part of the program."
+Перевод: "Глобальная переменная доступна из любой части программы."
+
+35. Local Variable — Локальная переменная
+Пример: "A local variable is only accessible within its function or block."
+Перевод: "Локальная переменная доступна только внутри своей функции или блока."
+
+36. Constant — Константа
+Пример: "A constant is a value that does not change during program execution."
+Перевод: "Константа — это значение, которое не изменяется во время выполнения программы."
+
+37. Type Casting — Преобразование типа
+Пример: "Type casting converts data from one type to another."
+Перевод: "Преобразование типа переводит данные из одного типа в другой."
+
+38. Data Type — Тип данных
+Пример: "Common data types include integers, floats, and strings."
+Перевод: "К общим типам данных относятся целые числа, числа с плавающей точкой и строки."
+
+39. Null Value — Пустое значение
+Пример: "A null value represents the absence of data."
+Перевод: "Пустое значение означает отсутствие данных."
+
+40. Pointer — Указатель
+Пример: "A pointer stores the memory address of another variable."
+Перевод: "Указатель хранит адрес памяти другой переменной."
+
+41. Reference — Ссылка
+Пример: 'References allow you to access memory indirectly.'
+Перевод: 'Ссылки позволяют косвенно обращаться к памяти.'
+
+42. Dynamic Memory — Динамическая память
+Пример: 'Dynamic memory allocation is done at runtime.'
+Перевод: 'Динамическое выделение памяти выполняется во время выполнения программы.'
+
+43. Stack — Стек
+Пример: 'The stack stores local variables and function calls.'
+Перевод: 'Стек хранит локальные переменные и вызовы функций.'
+
+44. Heap — Куча
+Пример: 'The heap is used for dynamic memory allocation.'
+Перевод: 'Куча используется для динамического выделения памяти.'
+
+45. Immutable — Неизменяемый
+Пример: 'Strings in Python are immutable objects.'
+Перевод: 'Строки в Python являются неизменяемыми объектами.'
+
+46. Mutable — Изменяемый
+Пример: 'Lists in Python are mutable data structures.'
+Перевод: 'Списки в Python являются изменяемыми структурами данных.'
+
+47. Key-Value Pair — Пара ключ-значение
+Пример: 'A dictionary stores data as key-value pairs.'
+Перевод: 'Словарь хранит данные в виде пар ключ-значение.'
+
+48. API (Application Programming Interface) — Интерфейс прикладного программирования
+Пример: 'An API allows applications to interact with each other.'
+Перевод: 'API позволяет приложениям взаимодействовать друг с другом.'
+
+49. Framework — Фреймворк
+Пример: 'Django is a popular framework for web development.'
+Перевод: 'Django — популярный фреймворк для веб-разработки.'
+
+50. Library — Библиотека
+Пример: 'NumPy is a library for numerical computing in Python.'
+Перевод: 'NumPy — это библиотека для численных вычислений в Python.'
+
+51. Debugging — Отладка
+Пример: "Debugging is essential to identify and fix issues in the code."
+Перевод: "Отладка необходима для выявления и исправления ошибок в коде."
+
+52. Interface — Интерфейс
+Пример: "The interface defines how components communicate with each other."
+Перевод: "Интерфейс определяет, как компоненты взаимодействуют друг с другом."
+
+53. Encapsulation — Инкапсуляция
+Пример: "Encapsulation hides implementation details from the user."
+Перевод: "Инкапсуляция скрывает детали реализации от пользователя."
+
+54. Data Flow — Поток данных
+Пример: "Understanding the data flow is critical for optimizing performance."
+Перевод: "Понимание потока данных критически важно для оптимизации производительности."
+
+55. Queue — Очередь
+Пример: "Tasks are processed in a first-come, first-served manner in a queue."
+Перевод: "Задачи обрабатываются в порядке очереди: кто первый пришёл, того первого обслужили."
+
+56. Token — Токен
+Пример: "A token is used for authentication in secure systems."
+Перевод: "Токен используется для аутентификации в защищённых системах."
+
+57. Semaphore — Семафор
+Пример: "Semaphores control access to shared resources in concurrent programming."
+Перевод: "Семафоры управляют доступом к общим ресурсам в параллельном программировании."
+
+58. Middleware — Промежуточное ПО
+Пример: "Middleware connects different applications or services seamlessly."
+Перевод: "Промежуточное ПО объединяет различные приложения или сервисы."
+
+59. Callback — Обратный вызов
+Пример: "Callbacks are commonly used in asynchronous programming."
+Перевод: "Обратные вызовы часто используются в асинхронном программировании."
+
+60. Thread — Поток
+Пример: "Multithreading improves performance by running tasks simultaneously."
+Перевод: "Многопоточность улучшает производительность, выполняя задачи одновременно."
+61. Instance — Экземпляр
+Пример: "An instance of a class represents a specific object."
+Перевод: "Экземпляр класса представляет собой конкретный объект."
+
+62. Constructor — Конструктор
+Пример: "A constructor initializes an object when it is created."
+Перевод: "Конструктор инициализирует объект при его создании."
+
+63. Destructor — Деструктор
+Пример: "The destructor is used to clean up resources when an object is destroyed."
+Перевод: "Деструктор используется для очистки ресурсов, когда объект уничтожается."
+
+64. Namespace — Пространство имён
+Пример: "Namespaces help to organize code and avoid naming conflicts."
+Перевод: "Пространства имён помогают организовать код и избежать конфликтов имён."
+
+65. Polymorphism — Полиморфизм
+Пример: "Polymorphism allows objects of different classes to be treated as objects of a common superclass."
+Перевод: "Полиморфизм позволяет объектам разных классов восприниматься как объекты общего суперкласса."
+
+66. Inheritance — Наследование
+Пример: "Inheritance allows a new class to acquire properties and methods of an existing class."
+Перевод: "Наследование позволяет новому классу получить свойства и методы существующего класса."
+
+67. Abstraction — Абстракция
+Пример: "Abstraction simplifies complex systems by hiding unnecessary details."
+Перевод: "Абстракция упрощает сложные системы, скрывая ненужные детали."
+
+68. Interface Segregation — Разделение интерфейсов
+Пример: "Interface segregation ensures that clients are not forced to implement unnecessary methods."
+Перевод: "Разделение интерфейсов гарантирует, что клиенты не будут вынуждены реализовывать ненужные методы."
+
+69. Refactoring — Рефакторинг
+Пример: "Refactoring improves the internal structure of the code without changing its external behavior."
+Перевод: "Рефакторинг улучшает внутреннюю структуру кода без изменения его внешнего поведения."
+
+70. Event-driven Programming — Событийно-ориентированное программирование
+Пример: "Event-driven programming reacts to user actions like clicks or key presses."
+Перевод: "Событийно-ориентированное программирование реагирует на действия пользователя, такие как клики или нажатия клавиш."
+
+71. Synchronization — Синхронизация
+Пример: "Synchronization ensures that shared resources are accessed safely in multithreaded environments."
+Перевод: "Синхронизация гарантирует безопасный доступ к общим ресурсам в многопоточных средах."
+
+72. Dependency Injection — Внедрение зависимостей
+Пример: "Dependency injection allows for better modularity and testability of code."
+Перевод: "Внедрение зависимостей улучшает модульность и тестируемость кода."
+
+73. Aspect-Oriented Programming (AOP) — Аспектно-ориентированное программирование
+Пример: "AOP helps separate concerns such as logging and security from the business logic."
+Перевод: "Аспектно-ориентированное программирование помогает разделить аспекты, такие как логирование и безопасность, от бизнес-логики."
+
+74. Proxy Pattern — Шаблон Прокси
+Пример: "The proxy pattern controls access to a resource by providing a surrogate object."
+Перевод: "Шаблон прокси управляет доступом к ресурсу, предоставляя заменяющий объект."
+
+75. Singleton — Одиночка
+Пример: "The singleton pattern ensures that only one instance of a class exists."
+Перевод: "Шаблон одиночка гарантирует, что существует только один экземпляр класса."
+
+76. Observer Pattern — Шаблон Наблюдатель
+Пример: "The observer pattern allows an object to notify other objects about state changes."
+Перевод: "Шаблон наблюдателя позволяет объекту уведомлять другие объекты об изменениях состояния."
+
+77. Factory Pattern — Шаблон Фабрика
+Пример: "The factory pattern provides an interface for creating objects without specifying the exact class."
+Перевод: "Шаблон фабрики предоставляет интерфейс для создания объектов без указания конкретного класса."
+
+78. Strategy Pattern — Шаблон Стратегия
+Пример: "The strategy pattern allows an algorithm to be selected at runtime."
+Перевод: "Шаблон стратегии позволяет выбрать алгоритм во время выполнения."
+
+79. Command Pattern — Шаблон Команда
+Пример: "The command pattern turns a request into a stand-alone object that contains all information about the request."
+Перевод: "Шаблон команда превращает запрос в самостоятельный объект, который содержит всю информацию о запросе."
+
+80. Adapter Pattern — Шаблон Адаптер
+Пример: "The adapter pattern allows incompatible interfaces to work together."
+Перевод: "Шаблон адаптер позволяет несовместимым интерфейсам работать вместе."
+
+81. Chain of Responsibility — Цепочка обязанностей
+Пример: "In the chain of responsibility pattern, each handler processes a request or passes it to the next handler."
+Перевод: "В шаблоне цепочки обязанностей каждый обработчик обрабатывает запрос или передаёт его следующему обработчику."
+
+82. Composite Pattern — Шаблон Композит
+Пример: "The composite pattern allows treating individual objects and compositions of objects uniformly."
+Перевод: "Шаблон композит позволяет одинаково работать с отдельными объектами и их композициями."
+
+83. Iterator Pattern — Шаблон Итератор
+Пример: "The iterator pattern provides a way to access the elements of an aggregate object sequentially."
+Перевод: "Шаблон итератора предоставляет способ последовательного доступа к элементам составного объекта."
+
+84. State Pattern — Шаблон Состояние
+Пример: "The state pattern allows an object to alter its behavior when its internal state changes."
+Перевод: "Шаблон состояния позволяет объекту изменять своё поведение, когда его внутреннее состояние меняется."
+
+85. Template Method Pattern — Шаблон Метод Шаблон
+Пример: "The template method pattern defines the skeleton of an algorithm, deferring some steps to subclasses."
+Перевод: "Шаблон метода шаблон определяет структуру алгоритма, откладывая выполнение некоторых шагов на подклассы."
+
+86. Builder Pattern — Шаблон Строитель
+Пример: "The builder pattern separates the construction of a complex object from its representation."
+Перевод: "Шаблон строитель разделяет процесс создания сложного объекта от его представления."
+
+87. Prototype Pattern — Шаблон Прототип
+Пример: "The prototype pattern creates new objects by cloning existing ones."
+Перевод: "Шаблон прототип создаёт новые объекты путём клонирования существующих."
+
+88. Facade Pattern — Шаблон Фасад
+Пример: "The facade pattern simplifies interaction with a complex subsystem by providing a unified interface."
+Перевод: "Шаблон фасад упрощает взаимодействие со сложной подсистемой, предоставляя унифицированный интерфейс."
+
+89. Visitor Pattern — Шаблон Посетитель
+Пример: "The visitor pattern allows adding new operations to existing classes without modifying them."
+Перевод: "Шаблон посетитель позволяет добавлять новые операции в существующие классы без их изменения."
+
+90. Memento Pattern — Шаблон Хранитель
+Пример: "The memento pattern allows capturing the state of an object and restoring it later."
+Перевод: "Шаблон хранитель позволяет захватывать состояние объекта и восстанавливать его позже."
+
+91. Adapter — Адаптер
+Пример: "The adapter pattern allows incompatible classes to work together by providing a wrapper."
+Перевод: "Шаблон адаптер позволяет несовместимым классам работать вместе, предоставляя обёртку."
+
+92. Proxy — Прокси
+Пример: "A proxy object acts as a surrogate for another object."
+Перевод: "Объект прокси действует как заместитель для другого объекта."
+
+93. Reflection — Рефлексия
+Пример: "Reflection allows a program to examine and modify its own structure during runtime."
+Перевод: "Рефлексия позволяет программе исследовать и изменять свою структуру во время выполнения."
+
+94. Lambda Expression — Лямбда-выражение
+Пример: "A lambda expression allows defining an anonymous function in a concise way."
+Перевод: "Лямбда-выражение позволяет определить анонимную функцию кратким образом."
+
+95. Delegate — Делегат
+Пример: "A delegate is used to pass method references in object-oriented programming."
+Перевод: "Делегат используется для передачи ссылок на методы в объектно-ориентированном программировании."
+
+96. Observer — Наблюдатель
+Пример: "The observer pattern is used to notify multiple objects when a change occurs."
+Перевод: "Шаблон наблюдатель используется для уведомления нескольких объектов о происходящих изменениях."
+
+97. Event-driven Programming — Событийно-ориентированное программирование
+Пример: "Event-driven programming is based on handling events like mouse clicks or key presses."
+Перевод: "Событийно-ориентированное программирование основывается на обработке событий, таких как клики мышью или нажатия клавиш."
+
+98. Query Language — Язык запросов
+Пример: "SQL is a query language used for managing databases."
+Перевод: "SQL — это язык запросов, используемый для управления базами данных."
+
+99. Overloading — Перегрузка
+Пример: "Method overloading allows defining multiple methods with the same name but different parameters."
+Перевод: "Перегрузка методов позволяет определить несколько методов с одинаковым именем, но с разными параметрами."
+
+100. Thread Safety — Безопасность потоков
+Пример: "Thread safety ensures that data is correctly managed in multi-threaded environments."
+Перевод: "Безопасность потоков гарантирует правильное управление данными в многопоточных средах."
+
+101. Recursion — Рекурсия
+Пример: "Recursion is a method where a function calls itself to solve a problem."
+Перевод: "Рекурсия — это метод, при котором функция вызывает саму себя для решения задачи."
+
+102. Multithreading — Многозадачность (многопоточность)
+Пример: "Multithreading allows for concurrent execution of multiple threads."
+Перевод: "Многозадачность позволяет одновременно выполнять несколько потоков."
+
+103. Asynchronous Programming — Асинхронное программирование
+Пример: "Asynchronous programming helps to improve the performance of I/O-bound operations."
+Перевод: "Асинхронное программирование помогает улучшить производительность операций, связанных с вводом-выводом."
+
+104. Virtual Machine — Виртуальная машина
+Пример: "A virtual machine provides an abstraction of physical hardware."
+Перевод: "Виртуальная машина предоставляет абстракцию физического оборудования."
+
+105. Middleware — Промежуточное ПО
+Пример: "Middleware provides communication services between different software components."
+Перевод: "Промежуточное ПО предоставляет сервисы для связи между различными компонентами программного обеспечения."
+
+106. Garbage Collection — Сборка мусора
+Пример: "Garbage collection automatically reclaims memory that is no longer in use."
+Перевод: "Сборка мусора автоматически освобождает память, которая больше не используется."
+
+107. Compression — Сжатие
+Пример: "Data compression reduces the size of files for storage or transmission."
+Перевод: "Сжатие данных уменьшает размер файлов для хранения или передачи."
+
+108. Encryption — Шифрование
+Пример: "Encryption ensures that sensitive data is secure during transmission."
+Перевод: "Шифрование гарантирует безопасность конфиденциальных данных при передаче."
+
+109. Authentication — Аутентификация
+Пример: "Authentication verifies the identity of a user before granting access."
+Перевод: "Аутентификация проверяет личность пользователя перед предоставлением доступа."
+
+110. Authorization — Авторизация
+Пример: "Authorization determines what actions a user is allowed to perform."
+Перевод: "Авторизация определяет, какие действия пользователь может выполнять.
+
+111. Decryption — Дешифрование
+Пример: "Decryption converts encrypted data back into its original form."
+Перевод: "Дешифрование восстанавливает зашифрованные данные в их первоначальный вид."
+
+112. Proxy — Прокси
+Пример: "A proxy acts as an intermediary between a client and a server."
+Перевод: "Прокси действует как промежуточное звено между клиентом и сервером."
+
+113. VPN (Virtual Private Network) — Виртуальная частная сеть
+Пример: "A VPN creates a secure connection to a remote server over the internet."
+Перевод: "VPN создаёт защищённое соединение с удалённым сервером через интернет."
+
+114. Load Balancer — Балансировщик нагрузки
+Пример: "A load balancer distributes incoming network traffic across multiple servers."
+Перевод: "Балансировщик нагрузки распределяет входящий трафик между несколькими серверами."
+
+115. Continuous Integration (CI) — Непрерывная интеграция
+Пример: "Continuous integration automates the process of testing and merging code changes."
+Перевод: "Непрерывная интеграция автоматизирует процесс тестирования и объединения изменений в коде."
+
+116. Continuous Delivery (CD) — Непрерывная поставка
+Пример: "Continuous delivery ensures that code is always ready for deployment."
+Перевод: "Непрерывная поставка гарантирует, что код всегда готов к развёртыванию."
+
+117. Version Control — Контроль версий
+Пример: "Version control tracks changes to files over time."
+Перевод: "Контроль версий отслеживает изменения файлов с течением времени."
+
+118. Git — Git
+Пример: "Git is a distributed version control system widely used in software development."
+Перевод: "Git — это распределённая система контроля версий, широко используемая в разработке программного обеспечения."
+
+119. Branch — Ветка
+Пример: "A branch in Git allows developers to work on different features without affecting the main code."
+Перевод: "Ветка в Git позволяет разработчикам работать над разными функциями, не затрагивая основной код."
+
+120. Merge — Слияние
+Пример: "Merge conflicts occur when changes made in different branches are incompatible."
+Перевод: "Конфликты слияния возникают, когда изменения, сделанные в разных ветках, несовместимы."
+
+121. Pull Request — Запрос на слияние
+Пример: "A pull request is used to propose changes to a repository for review."
+Перевод: "Запрос на слияние используется для предложения изменений в репозиторий на проверку."
+
+122. Fork — Форк
+Пример: "A fork creates a copy of a repository for independent development."
+Перевод: "Форк создаёт копию репозитория для независимой разработки."
+
+123. Issue — Задача
+Пример: "An issue tracks bugs, tasks, or feature requests in a project."
+Перевод: "Задача отслеживает ошибки, задачи или запросы на добавление функционала в проект."
+
+124. Commit — Коммит
+Пример: "A commit saves changes to the repository with a descriptive message."
+Перевод: "Коммит сохраняет изменения в репозитории с описанием."
+
+125. Repository — Репозиторий
+Пример: "A repository is a storage location for project files and version history."
+Перевод: "Репозиторий — это место хранения файлов проекта и истории версий."
+
+126. Refactoring — Рефакторинг
+Пример: "Refactoring improves the internal structure of the code without changing its external behavior."
+Перевод: "Рефакторинг улучшает внутреннюю структуру кода без изменения его внешнего поведения."
+
+127. Mock Object — Мок-объект
+Пример: "Mock objects simulate real objects in testing environments."
+Перевод: "Мок-объекты имитируют реальные объекты в тестовых средах."
+
+128. Test-Driven Development (TDD) — Разработка через тестирование
+Пример: "Test-driven development encourages writing tests before writing the code itself."
+Перевод: "Разработка через тестирование подразумевает написание тестов до написания самого кода."
+
+129. Unit Test — Модульное тестирование
+Пример: "Unit tests check individual components of a program for correctness."
+Перевод: "Модульные тесты проверяют отдельные компоненты программы на корректность."
+
+130. Integration Test — Интеграционное тестирование
+Пример: "Integration tests verify that different components work together as expected."
+Перевод: "Интеграционные тесты проверяют, что различные компоненты работают вместе, как ожидалось."
+
+131. Acceptance Test — Приёмочное тестирование
+Пример: "Acceptance tests ensure that the software meets the client's requirements."
+Перевод: "Приёмочные тесты гарантируют, что программное обеспечение соответствует требованиям клиента."
+
+132. Regression Testing — Регрессионное тестирование
+Пример: "Regression testing ensures that new changes do not break existing functionality."
+Перевод: "Регрессионное тестирование гарантирует, что новые изменения не ломают существующую функциональность."
+
+133. Load Testing — Нагрузочное тестирование
+Пример: "Load testing evaluates the performance of a system under heavy usage."
+Перевод: "Нагрузочное тестирование оценивает производительность системы при интенсивном использовании."
+
+134. Stress Testing — Стресс-тестирование
+Пример: "Stress testing determines how a system behaves under extreme conditions."
+Перевод: "Стресс-тестирование определяет, как система ведет себя при экстремальных условиях."
+
+135. API Testing — Тестирование API
+Пример: "API testing checks if the APIs return the expected results when given different inputs."
+Перевод: "Тестирование API проверяет, возвращают ли API ожидаемые результаты при разных входных данных."
+
+136. SOAP (Simple Object Access Protocol) — SOAP (Простой протокол доступа к объектам)
+Пример: "SOAP is a protocol used for exchanging structured information in web services."
+Перевод: "SOAP — это протокол, используемый для обмена структурированной информацией в веб-сервисах."
+
+137. REST (Representational State Transfer) — REST (Передача состояния представления)
+Пример: "RESTful services use HTTP methods like GET, POST, PUT, DELETE for communication."
+Перевод: "RESTful сервисы используют HTTP-методы, такие как GET, POST, PUT, DELETE для общения."
+
+138. WebSocket — WebSocket
+Пример: "WebSockets enable real-time, two-way communication between a client and a server."
+Перевод: "WebSockets обеспечивают реальное двустороннее общение между клиентом и сервером."
+
+139. JSON (JavaScript Object Notation) — JSON (Объектное представление JavaScript)
+Пример: "JSON is commonly used for data exchange between a server and a client."
+Перевод: "JSON часто используется для обмена данными между сервером и клиентом."
+
+140. XML (eXtensible Markup Language) — XML (Расширяемый язык разметки)
+Пример: "XML is a markup language that defines rules for encoding documents in a format readable by both humans and machines."
+Перевод: "XML — это язык разметки, который определяет правила кодирования документов в формате, читаемом как людьми, так и машинами."
+
+141. Cloud Computing — Облачные вычисления
+Пример: "Cloud computing allows businesses to store and access data over the internet."
+Перевод: "Облачные вычисления позволяют компаниям хранить и получать доступ к данным через интернет."
+
+142. SaaS (Software as a Service) — ПО как услуга
+Пример: "SaaS applications are hosted on the cloud and accessible via a web browser."
+Перевод: "Программы SaaS размещены в облаке и доступны через веб-браузер."
+
+143. PaaS (Platform as a Service) — Платформа как услуга
+Пример: "PaaS provides a platform for developers to build and deploy applications without managing underlying hardware."
+Перевод: "PaaS предоставляет платформу для разработки и развертывания приложений без необходимости управлять аппаратным обеспечением."
+
+144. IaaS (Infrastructure as a Service) — Инфраструктура как услуга
+Пример: "IaaS offers virtualized computing resources over the internet."
+Перевод: "IaaS предлагает виртуализированные вычислительные ресурсы через интернет."
+
+145. Serverless Computing — Безсерверные вычисления
+Пример: "Serverless computing allows developers to focus on code without managing the infrastructure."
+Перевод: "Безсерверные вычисления позволяют разработчикам сосредоточиться на коде, не управляя инфраструктурой."
+146. B-Tree — B-дерево
+Пример: "A B-tree is used for efficient searching, insertion, and deletion of data."
+Перевод: "B-дерево используется для эффективного поиска, вставки и удаления данных."
+
+147. Backpropagation — Обратное распространение
+Пример: "Backpropagation is a key algorithm in neural network training."
+Перевод: "Обратное распространение — это ключевой алгоритм в обучении нейронных сетей."
+
+148. Binary Search — Двоичный поиск
+Пример: "Binary search is an efficient algorithm for finding an item from a sorted list."
+Перевод: "Двоичный поиск — это эффективный алгоритм для нахождения элемента в отсортированном списке."
+
+149. Blockchain — Блокчейн
+Пример: "Blockchain is a distributed database technology used in cryptocurrencies."
+Перевод: "Блокчейн — это распределённая технология базы данных, используемая в криптовалютах."
+
+150. Buffer — Буфер
+Пример: "A buffer is used to temporarily store data during transfer between devices."
+Перевод: "Буфер используется для временного хранения данных при передаче между устройствами."
+
+151. Bandwidth — Пропускная способность
+Пример: "Higher bandwidth allows for faster data transfer rates."
+Перевод: "Более высокая пропускная способность позволяет достигать более быстрых скоростей передачи данных."
+
+152. Bit Rate — Битрейт
+Пример: "Bit rate defines the number of bits processed per unit of time in a digital network."
+Перевод: "Битрейт определяет количество обрабатываемых бит за единицу времени в цифровой сети."
+
+153. Bridge — Мост
+Пример: "A bridge connects two network segments, allowing them to communicate."
+Перевод: "Мост соединяет два сегмента сети, позволяя им общаться."
+
+154. Buffer Overflow — Переполнение буфера
+Пример: "A buffer overflow can cause a program to crash or be exploited by attackers."
+Перевод: "Переполнение буфера может привести к сбою программы или быть использовано атакующими."
+
+155. Bitwise Operation — Побитовая операция
+Пример: "Bitwise operations manipulate individual bits within an integer."
+Перевод: "Побитовые операции изменяют отдельные биты в целочисленных данных."
+
+156. Broadcast — Трансляция
+Пример: "A broadcast sends a message to all devices within a network."
+Перевод: "Трансляция отправляет сообщение всем устройствам в сети."
+
+157. Cache — Кэш
+Пример: "A cache stores frequently accessed data to speed up retrieval."
+Перевод: "Кэш хранит часто запрашиваемые данные для ускорения их получения."
+
+158. Compiler — Компилятор
+Пример: "A compiler translates source code into machine code."
+Перевод: "Компилятор переводит исходный код в машинный код."
+
+159. Command Line — Командная строка
+Пример: "The command line allows users to interact with the operating system through text commands."
+Перевод: "Командная строка позволяет пользователям взаимодействовать с операционной системой через текстовые команды."
+
+160. Cloud Computing — Облачные вычисления
+Пример: "Cloud computing enables on-demand access to shared computing resources."
+Перевод: "Облачные вычисления обеспечивают доступ к общим вычислительным ресурсам по запросу."
+
+161. Concurrency — Конкурентность
+Пример: "Concurrency allows multiple tasks to be executed simultaneously."
+Перевод: "Конкурентность позволяет выполнять несколько задач одновременно."
+
+162. Cryptography — Криптография
+Пример: "Cryptography secures communications by encoding information."
+Перевод: "Криптография защищает коммуникации, кодируя информацию."
+
+163. Database — База данных
+Пример: "A database stores and organizes data for efficient retrieval."
+Перевод: "База данных хранит и организует данные для эффективного извлечения."
+
+164. Deadlock — Взаимная блокировка
+Пример: "A deadlock occurs when two or more processes are waiting on each other indefinitely."
+Перевод: "Взаимная блокировка происходит, когда два или более процесса ожидают друг друга бесконечно."
+
+165. DNS (Domain Name System) — Система доменных имен
+Пример: "DNS resolves human-readable domain names to IP addresses."
+Перевод: "DNS преобразует доменные имена, удобные для человека, в IP-адреса."
+
+166. Docker — Docker
+Пример: "Docker is a platform for developing, shipping, and running applications in containers."
+Перевод: "Docker — это платформа для разработки, доставки и запуска приложений в контейнерах."
+
+167. Data Mining — Анализ данных
+Пример: "Data mining is the process of discovering patterns in large data sets."
+Перевод: "Анализ данных — это процесс обнаружения закономерностей в больших наборах данных."
+
+168. Data Integrity — Целостность данных
+Пример: "Data integrity ensures that data is accurate and consistent over its lifecycle."
+Перевод: "Целостность данных гарантирует, что данные точны и последовательны на протяжении всего их жизненного цикла."
+
+169. DDoS (Distributed Denial of Service) — Распределенная атака отказа в обслуживании
+Пример: "A DDoS attack floods a server with traffic, causing it to become unresponsive."
+Перевод: "Атака DDoS заполняет сервер трафиком, из-за чего он становится неотзывчивым."
+
+170. Distributed System — Распределённая система
+Пример: "In a distributed system, multiple computers work together to perform a task."
+Перевод: "В распределённой системе несколько компьютеров работают вместе для выполнения задачи."
+
+171. Dynamic Linking — Динамическая компоновка
+Пример: "Dynamic linking allows programs to use shared libraries during execution."
+Перевод: "Динамическая компоновка позволяет программам использовать общие библиотеки во время выполнения."
+
+172. Embedded Systems — Встраиваемые системы
+Пример: "Embedded systems are specialized computing systems designed for specific functions."
+Перевод: "Встраиваемые системы — это специализированные вычислительные системы, предназначенные для выполнения конкретных функций."
+
+173. Encryption — Шифрование
+Пример: "Encryption protects sensitive information by converting it into unreadable data."
+Перевод: "Шифрование защищает конфиденциальную информацию, преобразуя её в нечитаемые данные."
+
+174. Entity-Relationship Model — Модель «Сущность-связь»
+Пример: "The entity-relationship model is used to visually represent data structures in databases."
+Перевод: "Модель «Сущность-связь» используется для визуального представления структур данных в базах данных."
+
+175. Endpoint — Конечная точка
+Пример: "An endpoint is a URL where an API can receive requests and send responses."
+Перевод: "Конечная точка — это URL, где API может принимать запросы и отправлять ответы."
+
+176. Firewall — Фаервол
+Пример: "A firewall filters incoming and outgoing network traffic based on security rules."
+Перевод: "Фаервол фильтрует входящий и исходящий сетевой трафик на основе правил безопасности."
+
+177. Front-end — Клиентская часть
+Пример: "The front-end of a web application handles the user interface and experience."
+Перевод: "Клиентская часть веб-приложения отвечает за пользовательский интерфейс и опыт."
+
+178. Full Stack — Полный стек
+Пример: "A full-stack developer is skilled in both front-end and back-end technologies."
+Перевод: "Разработчик полного стека обладает навыками работы как с клиентской, так и с серверной частью технологий."
+
+179. Function Pointer — Указатель на функцию
+Пример: "A function pointer stores the address of a function, allowing it to be called indirectly."
+Перевод: "Указатель на функцию хранит адрес функции, позволяя вызывать её косвенно."
+
+180. GUI (Graphical User Interface) — Графический пользовательский интерфейс
+Пример: "A GUI allows users to interact with a computer through graphical icons and visual indicators."
+Перевод: "GUI позволяет пользователям взаимодействовать с компьютером через графические значки и визуальные индикаторы."
+181. Hash Function — Хэш-функция
+Пример: "A hash function converts data into a fixed-size value, called a hash."
+Перевод: "Хэш-функция преобразует данные в значение фиксированного размера, называемое хэшем."
+
+182. Heap — Куча
+Пример: "A heap is a binary tree structure used to implement priority queues."
+Перевод: "Куча — это структура двоичного дерева, используемая для реализации очередей с приоритетами."
+
+183. Interface — Интерфейс
+Пример: "An interface defines the methods a class must implement."
+Перевод: "Интерфейс определяет методы, которые класс должен реализовать."
+
+184. JSON (JavaScript Object Notation) — JSON (Объектное представление JavaScript)
+Пример: "JSON is widely used for data interchange in web applications."
+Перевод: "JSON широко используется для обмена данными в веб-приложениях."
+
+185. Key Performance Indicator (KPI) — Индикатор ключевой эффективности
+Пример: "KPIs are used to measure the performance of a process or employee."
+Перевод: "Индикаторы ключевой эффективности используются для измерения производительности процесса или сотрудника."
+
+186. Lambda — Лямбда
+Пример: "A lambda expression is a concise way to define an anonymous function."
+Перевод: "Лямбда-выражение — это краткий способ определить анонимную функцию."
+
+187. Linker — Линковщик
+Пример: "The linker combines object files into a single executable file."
+Перевод: "Линковщик объединяет объектные файлы в один исполнимый файл."
+
+188. Load Balancing — Балансировка нагрузки
+Пример: "Load balancing distributes incoming traffic across multiple servers to optimize performance."
+Перевод: "Балансировка нагрузки распределяет входящий трафик между несколькими серверами для оптимизации производительности."
+
+189. Localhost — Локальный хост
+Пример: "Localhost refers to the computer that is currently running the program."
+Перевод: "Localhost означает компьютер, на котором в данный момент работает программа."
+
+190. Loop Unrolling — Развёртывание цикла
+Пример: "Loop unrolling is a performance optimization technique that decreases the overhead of loop control."
+Перевод: "Развёртывание цикла — это техника оптимизации производительности, которая уменьшает накладные расходы на управление циклом."
+
+191. Machine Learning — Машинное обучение
+Пример: "Machine learning allows computers to learn patterns from data without being explicitly programmed."
+Перевод: "Машинное обучение позволяет компьютерам выявлять закономерности из данных без явного программирования."
+
+192. Middleware — Промежуточное ПО
+Пример: "Middleware connects different applications and allows them to communicate with each other."
+Перевод: "Промежуточное ПО соединяет различные приложения и позволяет им взаимодействовать друг с другом."
+
+193. Mobile Development — Разработка мобильных приложений
+Пример: "Mobile development focuses on creating applications for smartphones and tablets."
+Перевод: "Разработка мобильных приложений фокусируется на создании программ для смартфонов и планшетов."
+
+194. Network Protocol — Сетевой протокол
+Пример: "TCP/IP is a network protocol used for communication over the internet."
+Перевод: "TCP/IP — это сетевой протокол, используемый для связи через интернет."
+
+195. Node — Узел
+Пример: "A node in a network is a device that can send or receive data."
+Перевод: "Узел в сети — это устройство, которое может отправлять или получать данные."
+
+196. Object-Oriented Programming (OOP) — Объектно-ориентированное программирование
+Пример: "OOP is a programming paradigm based on the concept of objects, which can contain data and methods."
+Перевод: "ООП — это парадигма программирования, основанная на концепции объектов, которые могут содержать данные и методы."
+
+197. Overload — Перегрузка
+Пример: "Method overloading allows defining multiple methods with the same name but different parameters."
+Перевод: "Перегрузка методов позволяет определить несколько методов с одинаковым именем, но с разными параметрами."
+
+198. Query — Запрос
+Пример: "The SQL query retrieves data from the database based on specific conditions."
+Перевод: "SQL-запрос извлекает данные из базы данных на основе определённых условий."
+
+199. Queue — Очередь
+Пример: "A queue processes tasks in the order they arrive."
+Перевод: "Очередь обрабатывает задачи в порядке их поступления."
+
+200. Regex (Regular Expression) — Регулярное выражение
+Пример: "Regular expressions allow pattern matching in strings."
+Перевод: "Регулярные выражения позволяют искать совпадения с шаблонами в строках."
+
+201. REST API — REST API
+Пример: "REST APIs use standard HTTP methods such as GET, POST, PUT, and DELETE."
+Перевод: "REST API используют стандартные HTTP-методы, такие как GET, POST, PUT и DELETE."
+
+202. SaaS (Software as a Service) — ПО как услуга
+Пример: "SaaS applications are hosted in the cloud and provided to users on demand."
+Перевод: "Программы SaaS размещаются в облаке и предоставляются пользователям по запросу."
+
+203. Scalability — Масштабируемость
+Пример: "Scalability ensures that a system can handle increased demand."
+Перевод: "Масштабируемость гарантирует, что система может справляться с увеличением нагрузки."
+
+204. Semaphore — Семафор
+Пример: "A semaphore is used for managing concurrent processes in operating systems."
+Перевод: "Семафор используется для управления параллельными процессами в операционных системах."
+
+205. Session — Сессия
+Пример: "A session is used to store user data across multiple interactions."
+Перевод: "Сессия используется для хранения данных пользователя при нескольких взаимодействиях."
+206. Stack — Стек
+Пример: "The stack is used to store function calls and local variables."
+Перевод: "Стек используется для хранения вызовов функций и локальных переменных."
+
+207. Static Typing — Статическая типизация
+Пример: "Static typing helps catch errors during compile time."
+Перевод: "Статическая типизация помогает выявить ошибки на этапе компиляции."
+
+208. String Manipulation — Манипуляция строками
+Пример: "String manipulation involves tasks like concatenation and splitting of strings."
+Перевод: "Манипуляция строками включает такие операции, как объединение и разделение строк."
+
+209. Synchronization — Синхронизация
+Пример: "Synchronization ensures that shared resources are accessed safely in multithreaded programs."
+Перевод: "Синхронизация гарантирует безопасный доступ к общим ресурсам в многопоточных программах."
+
+210. Syntax — Синтаксис
+Пример: "Syntax defines the rules for writing code in a programming language."
+Перевод: "Синтаксис определяет правила написания кода на языке программирования."
+
+211. System Call — Системный вызов
+Пример: "A system call is used by a program to request services from the operating system."
+Перевод: "Системный вызов используется программой для запроса услуг от операционной системы."
+
+212. Throughput — Пропускная способность
+Пример: "Throughput measures the amount of data successfully transmitted in a network."
+Перевод: "Пропускная способность измеряет количество данных, успешно переданных в сети."
+
+213. Thread — Поток
+Пример: "A thread is the smallest unit of execution in a program."
+Перевод: "Поток — это наименьшая единица выполнения в программе."
+
+214. Tokenization — Токенизация
+Пример: "Tokenization breaks text into smaller components called tokens."
+Перевод: "Токенизация разделяет текст на более мелкие компоненты, называемые токенами."
+
+215. URL (Uniform Resource Locator) — URL (Единый указатель ресурса)
+Пример: "A URL provides the address to access a resource on the internet."
+Перевод: "URL предоставляет адрес для доступа к ресурсу в интернете."
+
+216. User Interface (UI) — Пользовательский интерфейс
+Пример: "A user interface defines how users interact with a software application."
+Перевод: "Пользовательский интерфейс определяет, как пользователи взаимодействуют с программным обеспечением."
+
+217. User Experience (UX) — Пользовательский опыт
+Пример: "User experience focuses on the overall feel and usability of an application."
+Перевод: "Пользовательский опыт фокусируется на общем восприятии и удобстве использования приложения."
+
+218. Version Control — Контроль версий
+Пример: "Version control tracks changes to files over time, allowing collaboration."
+Перевод: "Контроль версий отслеживает изменения файлов с течением времени, позволяя сотрудничество."
+
+219. Virtual Machine (VM) — Виртуальная машина
+Пример: "A virtual machine allows you to run an operating system within another operating system."
+Перевод: "Виртуальная машина позволяет запускать операционную систему внутри другой операционной системы."
+
+220. Volatile — Волатильный
+Пример: "A volatile variable is one whose value can change unexpectedly."
+Перевод: "Волатильная переменная — это переменная, значение которой может измениться неожиданно."
+
+221. WebSocket — WebSocket
+Пример: "WebSocket provides full-duplex communication channels over a single TCP connection."
+Перевод: "WebSocket предоставляет каналы двусторонней связи через одно соединение TCP."
+
+222. Web Service — Веб-сервис
+Пример: "A web service allows different applications to communicate over the internet."
+Перевод: "Веб-сервис позволяет различным приложениям общаться через интернет."
+
+223. XML (Extensible Markup Language) — XML (Расширяемый язык разметки)
+Пример: "XML is a markup language that defines rules for encoding documents in a format readable by both humans and machines."
+Перевод: "XML — это язык разметки, который определяет правила кодирования документов в формате, читаемом как людьми, так и машинами."
+
+224. Web Framework — Веб-фреймворк
+Пример: "A web framework provides tools for building web applications."
+Перевод: "Веб-фреймворк предоставляет инструменты для создания веб-приложений."
+
+225. WSDL (Web Services Description Language) — WSDL (Язык описания веб-сервисов)
+Пример: "WSDL describes the operations offered by a web service."
+Перевод: "WSDL описывает операции, предлагаемые веб-сервисом."
+
+226. Zero-Day Attack — Атака нулевого дня
+Пример: "A zero-day attack exploits vulnerabilities in software before they are known or patched."
+Перевод: "Атака нулевого дня использует уязвимости в программном обеспечении до того, как они станут известны или исправлены."
+
+227. Zombie Process — Зомби-процесс
+Пример: "A zombie process is a process that has completed execution but still has an entry in the process table."
+Перевод: "Зомби-процесс — это процесс, который завершил выполнение, но всё ещё имеет запись в таблице процессов."
+
+228. Exception Handling — Обработка исключений
+Пример: "Exception handling allows a program to respond to runtime errors gracefully."
+Перевод: "Обработка исключений позволяет программе корректно реагировать на ошибки во время выполнения."
+
+229. Query Optimization — Оптимизация запросов
+Пример: "Query optimization improves the performance of database queries by reducing resource usage."
+Перевод: "Оптимизация запросов улучшает производительность запросов к базе данных, уменьшая использование ресурсов."
+
+230. Load Testing — Нагрузочное тестирование
+Пример: "Load testing determines how a system behaves under heavy traffic."
+Перевод: "Нагрузочное тестирование определяет, как система ведёт себя при большом потоке данных."
+
+231. Back-End — Серверная часть
+Пример: "The back-end of a web application handles database operations and user authentication."
+Перевод: "Серверная часть веб-приложения обрабатывает операции с базой данных и аутентификацию пользователей."
+
+232. Front-End — Клиентская часть
+Пример: "The front-end of a website handles the layout and user interaction."
+Перевод: "Клиентская часть веб-сайта обрабатывает макет и взаимодействие с пользователем."
+
+233. Task Queue — Очередь задач
+Пример: "A task queue is used to manage jobs that need to be processed asynchronously."
+Перевод: "Очередь задач используется для управления заданиями, которые должны обрабатываться асинхронно."
+
+234. Response Time — Время отклика
+Пример: "Response time is the time it takes for a system to respond to a user request."
+Перевод: "Время отклика — это время, которое требуется системе для ответа на запрос пользователя."
+
+235. Throughput — Пропускная способность
+Пример: "Throughput measures the rate at which data is processed in a system."
+Перевод: "Пропускная способность измеряет скорость, с которой данные обрабатываются в системе."
+
+236. High Availability — Высокая доступность
+Пример: "High availability ensures that a system remains operational even in the case of failures."
+Перевод: "Высокая доступность гарантирует, что система остаётся работоспособной даже в случае сбоев."
+
+237. Object Serialization — Сериализация объектов
+Пример: "Object serialization converts objects into a format suitable for transmission or storage."
+Перевод: "Сериализация объектов преобразует объекты в формат, подходящий для передачи или хранения."
+
+238. Semaphore — Семафор
+Пример: "A semaphore is used for managing concurrent access to resources."
+Перевод: "Семафор используется для управления параллельным доступом к ресурсам."
+
+239. SQL Injection — SQL-инъекция
+Пример: "SQL injection is a security vulnerability that allows an attacker to manipulate database queries."
+Перевод: "SQL-инъекция — это уязвимость безопасности, которая позволяет атакующему манипулировать запросами к базе данных."
+
+240. Multi-Threading — Многозадачность (многопоточность)
+Пример: "Multi-threading allows for the parallel execution of multiple tasks."
+Перевод: "Многозадачность позволяет параллельно выполнять несколько задач."
+
+241. Virtualization — Виртуализация
+Пример: "Virtualization allows multiple virtual machines to run on a single physical machine."
+Перевод: "Виртуализация позволяет запускать несколько виртуальных машин на одном физическом устройстве."
+
+242. Cloud Storage — Облачное хранилище
+Пример: "Cloud storage provides scalable storage solutions accessible over the internet."
+Перевод: "Облачное хранилище предоставляет масштабируемые решения для хранения данных, доступные через интернет."
+
+243. Asynchronous Programming — Асинхронное программирование
+Пример: "Asynchronous programming allows non-blocking execution of tasks."
+Перевод: "Асинхронное программирование позволяет выполнять задачи без блокировки."
+
+244. Docker Container — Контейнер Docker
+Пример: "Docker containers provide a lightweight, portable environment for running applications."
+Перевод: "Контейнеры Docker предоставляют лёгкую и переносимую среду для запуска приложений."
+
+245. Kubernetes — Kubernetes
+Пример: "Kubernetes is used to orchestrate containers and manage their lifecycle."
+Перевод: "Kubernetes используется для оркестрации контейнеров и управления их жизненным циклом."
+
+246. Continuous Delivery (CD) — Непрерывная поставка
+Пример: "Continuous delivery automates the release of new software features."
+Перевод: "Непрерывная поставка автоматизирует выпуск новых функциональных возможностей программного обеспечения."
+
+247. Microservices — Микросервисы
+Пример: "Microservices architecture breaks down a system into smaller, independent services."
+Перевод: "Архитектура микросервисов разделяет систему на более мелкие независимые сервисы."
+
+248. Containerization — Контейнеризация
+Пример: "Containerization simplifies application deployment by packaging the application and its dependencies into a container."
+Перевод: "Контейнеризация упрощает развертывание приложений, упаковав приложение и его зависимости в контейнер."
+
+249. DevOps — DevOps
+Пример: "DevOps promotes collaboration between software development and IT operations teams."
+Перевод: "DevOps способствует сотрудничеству между командами разработки ПО и IT-операциями."
+
+250. RESTful API — RESTful API
+Пример: "RESTful APIs follow the principles of REST for stateless communication between client and server."
+Перевод: "RESTful API следует принципам REST для безсессионного общения между клиентом и сервером."
+
+251. Cloud-Native — Облачные нативные приложения
+Пример: "Cloud-native applications are designed to run in cloud environments."
+Перевод: "Облачные нативные приложения разрабатываются для работы в облачных средах."
+
+252. Serverless — Безсерверные вычисления
+Пример: "Serverless computing allows developers to run code without managing servers."
+Перевод: "Безсерверные вычисления позволяют разработчикам запускать код без управления серверами."
+
+253. API Gateway — Шлюз API
+Пример: "An API gateway acts as a reverse proxy to route requests to the appropriate microservice."
+Перевод: "Шлюз API действует как обратный прокси для маршрутизации запросов к соответствующему микросервису."
+
+254. Web Scraping — Веб-скрейпинг
+Пример: "Web scraping extracts data from websites for analysis or use."
+Перевод: "Веб-скрейпинг извлекает данные с веб-сайтов для анализа или использования."
+
+255. Data Breach — Утечка данных
+Пример: "A data breach occurs when sensitive information is accessed without authorization."
+Перевод: "Утечка данных происходит, когда конфиденциальная информация становится доступной без разрешения."
+
+256. Blockchain Technology — Технология блокчейн
+Пример: "Blockchain technology enables secure, transparent transactions using distributed ledgers."
+Перевод: "Технология блокчейн позволяет безопасные и прозрачные транзакции с использованием распределённых реестров."
+
+257. Load Balancer — Балансировщик нагрузки
+Пример: "A load balancer distributes incoming traffic across multiple servers to ensure reliability."
+Перевод: "Балансировщик нагрузки распределяет входящий трафик между несколькими серверами для обеспечения надёжности."
+
+258. Fault Tolerance — Отказоустойчивость
+Пример: "Fault tolerance ensures that a system continues to function despite hardware failures."
+Перевод: "Отказоустойчивость гарантирует, что система продолжит работать несмотря на сбои в оборудовании."
+
+259. High Availability — Высокая доступность
+Пример: "High availability systems ensure that applications remain operational even during failures."
+Перевод: "Системы высокой доступности гарантируют, что приложения остаются работоспособными даже во время сбоев."
+
+260. Hotfix — Горячее исправление
+Пример: "A hotfix is a quick solution applied to fix a critical issue without a full patch."
+Перевод: "Горячее исправление — это быстрое решение для устранения критической ошибки без полного патча."
+
+261. Scripting Language — Скриптовый язык
+Пример: "Scripting languages are often used for automating repetitive tasks."
+Перевод: "Скриптовые языки часто используются для автоматизации повторяющихся задач."
+
+262. Static Analysis — Статический анализ
+Пример: "Static analysis tools check the code for potential issues without executing it."
+Перевод: "Инструменты статического анализа проверяют код на потенциальные проблемы без его выполнения."
+
+263. Test-Driven Development (TDD) — Разработка через тестирование
+Пример: "In test-driven development, tests are written before the code itself."
+Перевод: "В разработке через тестирование тесты пишутся до самого кода."
+
+264. NoSQL Database — NoSQL база данных
+Пример: "NoSQL databases are used for handling large volumes of unstructured data."
+Перевод: "Базы данных NoSQL используются для обработки больших объёмов неструктурированных данных."
+
+265. Relational Database — Реляционная база данных
+Пример: "Relational databases store data in tables with rows and columns."
+Перевод: "Реляционные базы данных хранят данные в таблицах с строками и колонками."
+
+266. Cloud Migration — Миграция в облако
+Пример: "Cloud migration involves transferring data and applications to cloud environments."
+Перевод: "Миграция в облако включает в себя перенос данных и приложений в облачные среды."
+
+267. Web Application — Веб-приложение
+Пример: "A web application is an app that runs in a web browser."
+Перевод: "Веб-приложение — это приложение, которое работает в веб-браузере."
+
+268. Virtual Private Cloud (VPC) — Виртуальное частное облако
+Пример: "A virtual private cloud provides a secure and isolated environment for deploying applications."
+Перевод: "Виртуальное частное облако предоставляет защищённую и изолированную среду для развертывания приложений."
+
+269. Virtualization Layer — Слой виртуализации
+Пример: "The virtualization layer abstracts physical hardware resources and allows for multiple virtual machines."
+Перевод: "Слой виртуализации абстрагирует физические ресурсы оборудования и позволяет запускать несколько виртуальных машин."
+
+270. DevSecOps — DevSecOps
+Пример: "DevSecOps integrates security into the development and operations pipeline."
+Перевод: "DevSecOps интегрирует безопасность в процесс разработки и эксплуатации."
+
+
+306. Atomic Operation — Атомарная операция
+Пример: "An atomic operation is one that completes in a single step, without interference."
+Перевод: "Атомарная операция — это операция, которая завершается за один шаг, без вмешательства."
+
+307. Big Data — Большие данные
+Пример: "Big data refers to datasets that are too large or complex to be processed by traditional methods."
+Перевод: "Большие данные относятся к наборам данных, которые слишком большие или сложные для обработки традиционными методами."
+
+308. Bitrate — Битрейт
+Пример: "Bitrate determines the amount of data transmitted per second in multimedia streams."
+Перевод: "Битрейт определяет количество данных, передаваемых в секунду в мультимедийных потоках."
+
+309. Bot — Бот
+Пример: "A bot automates repetitive tasks, often mimicking human actions."
+Перевод: "Бот автоматизирует повторяющиеся задачи, часто имитируя действия человека."
+
+310. Bytecode — Байткод
+Пример: "Bytecode is an intermediate code that can be executed by a virtual machine."
+Перевод: "Байткод — это промежуточный код, который может быть выполнен виртуальной машиной."
+
+311. Cache Memory — Кэш-память
+Пример: "Cache memory stores frequently accessed data to speed up processing."
+Перевод: "Кэш-память хранит часто запрашиваемые данные для ускорения обработки."
+
+312. Change Management — Управление изменениями
+Пример: "Change management ensures that modifications to systems are properly documented and tested."
+Перевод: "Управление изменениями гарантирует, что изменения в системах должным образом документируются и тестируются."
+
+313. Cloud Platform — Облачная платформа
+Пример: "Cloud platforms offer a variety of services such as computing power, storage, and databases."
+Перевод: "Облачные платформы предлагают различные сервисы, такие как вычислительные мощности, хранилища и базы данных."
+
+314. Cloud Service — Облачный сервис
+Пример: "Cloud services provide on-demand access to computing resources over the internet."
+Перевод: "Облачные сервисы предоставляют доступ к вычислительным ресурсам через интернет по запросу."
+
+315. Cluster — Кластер
+Пример: "A cluster is a collection of computers or nodes that work together to perform tasks more efficiently."
+Перевод: "Кластер — это коллекция компьютеров или узлов, которые работают вместе для более эффективного выполнения задач."
+
+316. Code Review — Ревью кода
+Пример: "Code review ensures that the code meets the project standards and is free from bugs."
+Перевод: "Ревью кода гарантирует, что код соответствует стандартам проекта и не содержит ошибок."
+
+317. Command Line Interface (CLI) — Интерфейс командной строки
+Пример: "A command line interface allows users to interact with a computer system through text-based commands."
+Перевод: "Интерфейс командной строки позволяет пользователям взаимодействовать с компьютерной системой через текстовые команды."
+
+318. Component — Компонент
+Пример: "A component is a modular part of a system that can be replaced or updated independently."
+Перевод: "Компонент — это модульная часть системы, которая может быть заменена или обновлена независимо."
+
+319. Configuration Management — Управление конфигурацией
+Пример: "Configuration management tools automate the process of maintaining and updating systems."
+Перевод: "Инструменты управления конфигурацией автоматизируют процесс поддержания и обновления систем."
+
+320. Continuous Monitoring — Непрерывный мониторинг
+Пример: "Continuous monitoring ensures that a system remains secure and functional at all times."
+Перевод: "Непрерывный мониторинг гарантирует, что система остаётся безопасной и функциональной в любое время."
+
+321. Containerization — Контейнеризация
+Пример: "Containerization packages software and its dependencies into a standardized unit for deployment."
+Перевод: "Контейнеризация упаковывает программное обеспечение и его зависимости в стандартизированную единицу для развертывания."
+
+322. Cryptographic Hash — Криптографический хэш
+Пример: "A cryptographic hash is used to securely map data to a fixed-size value."
+Перевод: "Криптографический хэш используется для безопасного отображения данных в значение фиксированного размера."
+
+323. Data Analysis — Анализ данных
+Пример: "Data analysis involves inspecting, cleaning, and transforming data to uncover useful information."
+Перевод: "Анализ данных включает исследование, очистку и преобразование данных для выявления полезной информации."
+
+324. Data Backup — Резервное копирование данных
+Пример: "Regular data backup ensures that important information is preserved in case of hardware failure."
+Перевод: "Регулярное резервное копирование данных гарантирует сохранность важной информации в случае сбоя оборудования."
+
+325. Data Center — Дата-центр
+Пример: "A data center is a facility used to store and manage computer systems and associated components."
+Перевод: "Дата-центр — это сооружение, используемое для хранения и управления компьютерными системами и сопутствующими компонентами."
+
+326. Data Encryption Standard (DES) — Стандарт шифрования данных (DES)
+Пример: "DES was one of the most widely used encryption algorithms, now considered insecure."
+Перевод: "DES был одним из самых широко используемых алгоритмов шифрования, но теперь считается небезопасным."
+
+327. Distributed Computing — Распределённые вычисления
+Пример: "Distributed computing allows for computation to be distributed across multiple computers."
+Перевод: "Распределённые вычисления позволяют распределить вычисления между несколькими компьютерами."
+
+328. DNS Server — DNS-сервер
+Пример: "A DNS server translates domain names into IP addresses."
+Перевод: "DNS-сервер преобразует доменные имена в IP-адреса."
+
+329. Dynamic Link Library (DLL) — Библиотека динамической компоновки (DLL)
+Пример: "DLL files contain reusable functions that can be accessed by programs during execution."
+Перевод: "Файлы DLL содержат многократно используемые функции, которые могут быть вызваны программами во время выполнения."
+
+330. Endpoint Security — Безопасность конечных точек
+Пример: "Endpoint security focuses on protecting devices such as computers and smartphones from cyber threats."
+Перевод: "Безопасность конечных точек направлена на защиту устройств, таких как компьютеры и смартфоны, от киберугроз."
+
+331. Event Handler — Обработчик событий
+Пример: "An event handler processes user interactions or system events in software applications."
+Перевод: "Обработчик событий обрабатывает взаимодействия пользователя или системные события в программных приложениях."
+
+332. Exploit — Эксплойт
+Пример: "An exploit takes advantage of a software vulnerability to perform unauthorized actions."
+Перевод: "Эксплойт использует уязвимость программного обеспечения для выполнения несанкционированных действий."
+
+333. Firewall Rules — Правила фаервола
+Пример: "Firewall rules define which network traffic is allowed or blocked."
+Перевод: "Правила фаервола определяют, какой сетевой трафик разрешён или заблокирован."
+
+334. Full-Stack Developer — Разработчик полного стека
+Пример: "A full-stack developer is skilled in both front-end and back-end technologies."
+Перевод: "Разработчик полного стека имеет навыки работы как с клиентской, так и с серверной частью технологий."
+
+335. Function Signature — Подпись функции
+Пример: "The function signature defines the function's name, parameters, and return type."
+Перевод: "Подпись функции определяет её имя, параметры и тип возвращаемого значения."
+
+336. Garbage Collection — Сборка мусора
+Пример: "Garbage collection automatically reclaims memory that is no longer in use."
+Перевод: "Сборка мусора автоматически освобождает память, которая больше не используется."
+
+337. Git Branch — Ветка Git
+Пример: "A git branch allows you to work on different versions of a project simultaneously."
+Перевод: "Ветка Git позволяет работать с разными версиями проекта одновременно."
+
+338. GUI Framework — Фреймворк для GUI
+Пример: "GUI frameworks provide tools and libraries for building graphical user interfaces."
+Перевод: "Фреймворки для GUI предоставляют инструменты и библиотеки для создания графических пользовательских интерфейсов."
+
+339. HTTP Request — HTTP-запрос
+Пример: "An HTTP request sends a message from the client to the server for data or action."
+Перевод: "HTTP-запрос отправляет сообщение от клиента к серверу для получения данных или выполнения действия."
+
+340. HTTP Response — HTTP-ответ
+Пример: "An HTTP response is the server's answer to an HTTP request, containing the requested data."
+Перевод: "HTTP-ответ — это ответ сервера на HTTP-запрос, содержащий запрашиваемые данные."
+
+341. Hyperlink — Гиперссылка
+Пример: "A hyperlink allows users to navigate to other web pages or resources."
+Перевод: "Гиперссылка позволяет пользователям переходить на другие веб-страницы или ресурсы."
+
+342. Image Compression — Сжатие изображений
+Пример: "Image compression reduces the size of an image file while preserving its quality."
+Перевод: "Сжатие изображений уменьшает размер файла изображения при сохранении его качества."
+
+343. Immutable — Неизменяемый
+Пример: "In functional programming, immutable objects cannot be modified after they are created."
+Перевод: "В функциональном программировании неизменяемые объекты не могут быть изменены после их создания."
+
+344. Indexing — Индексация
+Пример: "Indexing helps to speed up the retrieval of data from a database."
+Перевод: "Индексация помогает ускорить извлечение данных из базы данных."
+
+345. Instance — Экземпляр
+Пример: "An instance of a class refers to a specific object created based on the class template."
+Перевод: "Экземпляр класса относится к конкретному объекту, созданному на основе шаблона класса."
+
+346. JSON Web Token (JWT) — JSON Web Token (JWT)
+Пример: "JWT is used for securely transmitting information between client and server as a JSON object."
+Перевод: "JWT используется для безопасной передачи информации между клиентом и сервером в виде JSON-объекта."
+
+347. Kernel — Ядро
+Пример: "The kernel is the core part of the operating system, responsible for managing hardware resources."
+Перевод: "Ядро — это основная часть операционной системы, отвечающая за управление аппаратными ресурсами."
+
+348. Key Management — Управление ключами
+Пример: "Key management involves securely generating, storing, and distributing encryption keys."
+Перевод: "Управление ключами включает безопасное создание, хранение и распределение шифровальных ключей."
+
+349. Lambda Expression — Лямбда-выражение
+Пример: "A lambda expression is a concise way to define an anonymous function."
+Перевод: "Лямбда-выражение — это краткий способ определения анонимной функции."
+
+350. Latency — Задержка
+Пример: "Latency refers to the time delay between sending and receiving data."
+Перевод: "Задержка — это временная задержка между отправкой и получением данных."
+
+351. Load Balancing — Балансировка нагрузки
+Пример: "Load balancing distributes incoming network traffic across multiple servers to ensure reliability."
+Перевод: "Балансировка нагрузки распределяет входящий сетевой трафик между несколькими серверами для обеспечения надёжности."
+
+352. Machine Learning — Машинное обучение
+Пример: "Machine learning algorithms use data to make predictions and decisions without being explicitly programmed."
+Перевод: "Алгоритмы машинного обучения используют данные для предсказания и принятия решений без явного программирования."
+
+353. Memory Leak — Утечка памяти
+Пример: "A memory leak occurs when a program consumes memory without releasing it."
+Перевод: "Утечка памяти происходит, когда программа использует память, не освобождая её."
+
+354. Middleware — Промежуточное ПО
+Пример: "Middleware provides software that connects different applications and allows them to communicate."
+Перевод: "Промежуточное ПО предоставляет программное обеспечение, которое соединяет различные приложения и позволяет им взаимодействовать."
+
+355. Mobile App — Мобильное приложение
+Пример: "A mobile app is a software application designed to run on a mobile device such as a smartphone."
+Перевод: "Мобильное приложение — это программное обеспечение, предназначенное для работы на мобильном устройстве, таком как смартфон."
+
+356. Multi-Threading — Многозадачность (Многопоточность)
+Пример: "Multi-threading allows multiple threads to execute concurrently, improving performance."
+Перевод: "Многозадачность позволяет нескольким потокам выполняться одновременно, улучшая производительность."
+
+357. Network Topology — Топология сети
+Пример: "Network topology defines the physical and logical arrangement of devices in a network."
+Перевод: "Топология сети определяет физическое и логическое расположение устройств в сети."
+
+358. Object-Oriented Programming (OOP) — Объектно-ориентированное программирование
+Пример: "Object-oriented programming allows for the creation of reusable code through classes and objects."
+Перевод: "Объектно-ориентированное программирование позволяет создавать повторно используемый код через классы и объекты."
+
+359. Open Source Software — Программное обеспечение с открытым исходным кодом
+Пример: "Open source software allows anyone to view, modify, and distribute its source code."
+Перевод: "Программное обеспечение с открытым исходным кодом позволяет каждому просматривать, модифицировать и распространять его исходный код."
+
+360. Parameter — Параметр
+Пример: "A parameter is a value passed to a function or method to customize its behavior."
+Перевод: "Параметр — это значение, передаваемое функции или методу для настройки его поведения."
+
+361. Port — Порт
+Пример: "A port is a logical endpoint used for communication between devices over a network."
+Перевод: "Порт — это логическая конечная точка, используемая для связи между устройствами в сети."
+
+362. Proxy Server — Прокси-сервер
+Пример: "A proxy server acts as an intermediary between a client and a server to filter requests."
+Перевод: "Прокси-сервер действует как посредник между клиентом и сервером для фильтрации запросов."
+
+363. Python — Python
+Пример: "Python is a high-level programming language known for its simplicity and readability."
+Перевод: "Python — это язык программирования высокого уровня, известный своей простотой и читаемостью."
+
+364. Query Language — Язык запросов
+Пример: "SQL is a query language used for managing and querying relational databases."
+Перевод: "SQL — это язык запросов, используемый для управления и выполнения запросов к реляционным базам данных."
+
+365. Queue — Очередь
+Пример: "A queue processes tasks in the order they are received, following a first-in, first-out (FIFO) method."
+Перевод: "Очередь обрабатывает задачи в порядке их получения, следуя методу «первым пришёл, первым ушёл» (FIFO)."
